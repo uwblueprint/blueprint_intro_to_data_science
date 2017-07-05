@@ -16,6 +16,7 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 1. Install [pip](https://pip.pypa.io/en/stable/installing/)
     1. Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
     1. Run `python get-pip.py`
+    1. Make sure `pip` is on the latest version, run `pip install --upgrade pip`
 1. Set up and activate [virtualenv](https://virtualenv.pypa.io/en/stable/installation/).
     1. Run `sudo pip install virtualenv`
     1. Run `virtualenv env`
@@ -23,6 +24,7 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 1. Install libraries into virtual environment
     1. Run `pip install -r requirements.txt`
     1. This can take anywhere from 5 - 20 minutes to run
+    1. Run `source env/bin/activate` again
 1. Connect to jupyter server 
     1. Run `jupyter notebook`
     1. ipython notebook will output a URL that you can connect to on your browser.
