@@ -1,7 +1,12 @@
-# blueprint_intro_to_data_science
+# Intro to Data Science by Blueprint
 
+**Presented by: Simran Jassal and Christopher Luc**
 
-Hi there! Please do the following pre-reqs below before the workshop so we can get started right away! Feel free to message us if you have any issues.
+Hi there! Please do the following pre-reqs below before the workshop so we can get started right away! Feel free to message us if you have any issues. Also like our [Facebook Page](https://www.facebook.com/uwblueprint/) and check out our [website](https://www.uwblueprint.org/)!
+
+**Slides:** Will be posted after the talk
+
+**Additional Resources:** Will be posted after the talk
 
 ## Set Up
 1. Open Terminal
@@ -28,8 +33,7 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
     1. Open `Kernel` dropdown and select `Restart & Run All`
     1. You should see `SUCCESS!` at the bottom of the notebook
 
-
-## Download dataset
+## Download Data
 1. Download our [dataset](https://www.dropbox.com/s/zr1fnhj3i625dtn/data.zip?dl=0)
 1. Put the contents of the zip into a new directory in the root and call it `data`
 1. The data should be at `blueprint_intro_to_data_science/data/2016.csv`
