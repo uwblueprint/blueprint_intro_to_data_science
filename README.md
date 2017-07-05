@@ -32,8 +32,3 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
     1. Find the `Test Notebook.ipynb` and open it
     1. Open `Kernel` dropdown and select `Restart & Run All`
     1. You should see `SUCCESS!` at the bottom of the notebook
-
-## Download Data
-1. Download our [dataset](https://www.dropbox.com/s/zr1fnhj3i625dtn/data.zip?dl=0)
-1. Put the contents of the zip into a new directory in the root and call it `data`
-1. The data should be at `blueprint_intro_to_data_science/data/2016.csv`
