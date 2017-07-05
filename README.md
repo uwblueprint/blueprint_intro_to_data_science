@@ -9,6 +9,8 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 **Additional Resources:** Will be posted after the talk
 
 ## Set Up
+Set up below was done on Mac. The steps should be similar for Windows and Linux.
+
 1. Open Terminal
 1. Clone this repo and go into the root directory of this project
     1. Run `git clone https://github.com/chrisjluc/blueprint_intro_to_data_science`
