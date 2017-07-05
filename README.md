@@ -6,22 +6,30 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 ## Set Up
 1. Open Terminal
 1. Clone this repo and go into the root directory of this project
+    1. Run `git clone https://github.com/chrisjluc/blueprint_intro_to_data_science`
+    1. Run `cd blueprint_intro_to_data_science`
 1. Install [pip](https://pip.pypa.io/en/stable/installing/)
     1. Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
-    2. Run `python get-pip.py`
-1. Set up [virtualenv](https://virtualenv.pypa.io/en/stable/installation/).
+    1. Run `python get-pip.py`
+1. Set up and activate [virtualenv](https://virtualenv.pypa.io/en/stable/installation/).
     1. Run `sudo pip install virtualenv`
-    2. Run `virtualenv env`
-    3. Run `source env/bin/activate`
-1. Install project requirements into virtual environment `pip install -r requirements.txt`
-1. Start jupyter server `jupyter notebook`
-1. Connect to server by going to the link `localhost:8888`
+    1. Run `virtualenv env`
+    1. Run `source env/bin/activate`
+1. Install libraries into virtual environment
+    1. Run `pip install -r requirements.txt`
+    1. This can take anywhere from 5 - 20 minutes to run
+1. Connect to jupyter server 
+    1. Run `jupyter notebook`
+    1. ipython notebook will output a URL that you can connect to on your browser.
+        1. i.e. It will look like this `http://localhost:8889/?token=86b9639019c700265090b665dc3ecea89815bfcb573229c9`
+    1. Connect to server by going to the link on your browser
 1. Run test notebook to make sure everything is installed properly!
-  1. Find the test notebook and open it
-  2. Open `Kernel` dropdown and select `Restart & Run All`
-  3. You should see `SUCCESS`
+    1. Find the `Test Notebook.ipynb` and open it
+    1. Open `Kernel` dropdown and select `Restart & Run All`
+    1. You should see `SUCCESS!` at the bottom of the notebook
 
 
 ## Download dataset
-1. Download link to data set
-2. Put the contents of the zip into a new directory in the root called `data/`
+1. Download our [dataset](https://www.dropbox.com/s/zr1fnhj3i625dtn/data.zip?dl=0)
+1. Put the contents of the zip into a new directory in the root and call it `data`
+1. The data should be at `blueprint_intro_to_data_science/data/2016.csv`
