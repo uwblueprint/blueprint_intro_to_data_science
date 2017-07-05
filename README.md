@@ -9,7 +9,8 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 **Additional Resources:** Will be posted after the talk
 
 ## Set Up
-Set up below was done on Mac. The steps should be similar for Windows and Linux.
+Set up below was done on Mac. The steps should be similar for Windows and Linux. Feel free to contact us if you have any issues!
+
 1. Install [Python 2.7](https://www.python.org/downloads/)
 1. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. Clone this repo and go into the root directory of this project
