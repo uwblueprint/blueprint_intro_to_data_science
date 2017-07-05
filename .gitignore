@@ -105,7 +105,6 @@ ENV/
 
 # virtualenv
 bin/
-data/
 include/
 lib/
 pip-selfcheck.json
