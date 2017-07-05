@@ -10,9 +10,10 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 
 ## Set Up
 Set up below was done on Mac. The steps should be similar for Windows and Linux.
-
-1. Open Terminal
+1. Install [Python 2.7](https://www.python.org/downloads/)
+1. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. Clone this repo and go into the root directory of this project
+    1. Open Terminal
     1. Run `git clone https://github.com/chrisjluc/blueprint_intro_to_data_science`
     1. Run `cd blueprint_intro_to_data_science`
 1. Install [pip](https://pip.pypa.io/en/stable/installing/)
