@@ -8,9 +8,16 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 
 **Additional Resources:** Will be posted after the talk
 
+We have the setup instructions for Windows, Mac and Ubuntu.
+
 ## Set up for Windows
-1. Checkout the readme on the [windows branch](https://github.com/uwblueprint/blueprint_intro_to_data_science/tree/windows#set-up-for-windows) for more details
-1. When you git clone remember to switch branches `git checkout windows`
+
+1. checkout the readme on the [windows branch](https://github.com/uwblueprint/blueprint_intro_to_data_science/tree/windows#set-up-for-windows) for more details
+1. when you git clone remember to switch branches `git checkout windows`
+
+## Set up for Ubuntu
+
+1. Same as Mac except in addition to `pip install -r requirements.txt` also run `sudo apt-get install libgeos-dev`
 
 ## Set Up for Mac
 
@@ -31,7 +38,7 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
     1. Run `pip install -r requirements.txt`
     1. This can take anywhere from 5 - 20 minutes to run
     1. Run `source env/bin/activate` again
-1. Connect to jupyter server 
+1. Connect to jupyter server
     1. Run `jupyter notebook`
     1. ipython notebook will output a URL that you can connect to on your browser.
         1. i.e. It will look like this `http://localhost:8889/?token=86b9639019c700265090b665dc3ecea89815bfcb573229c9`
