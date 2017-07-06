@@ -40,7 +40,6 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
     1. Open `Kernel` dropdown and select `Restart & Run All`
     1. You should see `SUCCESS!` at the bottom of the notebook
 
-
 ## Set Up for Mac
 
 Go to the readme on the [master branch](https://github.com/uwblueprint/blueprint_intro_to_data_science#set-up-for-mac) to look at mac-specific instructions.
