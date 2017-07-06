@@ -23,7 +23,7 @@ Go to the readme on the [master branch](https://github.com/uwblueprint/blueprint
 1. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. Clone this repo and go into the root directory of this project
     1. Open Command Line
-    1. Run `https://github.com/uwblueprint/blueprint_intro_to_data_science.git`
+    1. Run `git clone https://github.com/uwblueprint/blueprint_intro_to_data_science.git`
     1. Run `cd blueprint_intro_to_data_science`
 1. Open command prompt and cd to your installation of Python. Run `python -m pip install -U pip`
     1. Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
