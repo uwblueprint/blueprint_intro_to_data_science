@@ -12,6 +12,10 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 
 Go to the readme on the [master branch](https://github.com/uwblueprint/blueprint_intro_to_data_science#set-up-for-mac) to look at mac-specific instructions.
 
+## Set up for Ubuntu
+
+1. Same as Mac except in addition to `pip install -r requirements.txt` also run `sudo apt-get install libgeos-dev`
+
 ## Set Up for Windows
 
 1. Install [Python 2.7](https://www.python.org/downloads/)
