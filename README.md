@@ -8,8 +8,11 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 
 **Additional Resources:** Will be posted after the talk
 
-## Set Up
-Set up below was done on Mac. The steps should be similar for Windows and Linux. Feel free to contact us if you have any issues!
+## Set up for Windows
+1. Checkout the readme on this [branch](https://github.com/uwblueprint/blueprint_intro_to_data_science/tree/windows) for more details
+1. When you git clone remember to switch branches `git checkout windows`
+
+## Set Up for Mac
 
 1. Install [Python 2.7](https://www.python.org/downloads/)
 1. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
