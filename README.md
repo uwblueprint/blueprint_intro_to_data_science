@@ -18,11 +18,10 @@ Set up below was done on Mac. The steps should be similar for Windows and Linux.
     1. Run `git clone https://github.com/chrisjluc/blueprint_intro_to_data_science`
     1. Run `cd blueprint_intro_to_data_science`
 1. Install [pip](https://pip.pypa.io/en/stable/installing/)
-    1. Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
-    1. Run `python get-pip.py`
+    1. Run `python get-pip.py` in the root directory of this project
     1. Make sure `pip` is on the latest version, run `pip install --upgrade pip`
 1. Set up and activate [virtualenv](https://virtualenv.pypa.io/en/stable/installation/).
-    1. Run `sudo pip install virtualenv`
+    1. Run `sudo pip install virtualenv` in the root directory of this project
     1. Run `virtualenv env`
     1. Run `source env/bin/activate`
 1. Install libraries into virtual environment
