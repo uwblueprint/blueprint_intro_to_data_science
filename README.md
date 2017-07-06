@@ -8,8 +8,6 @@ Hi there! Please do the following pre-reqs below before the workshop so we can g
 
 **Additional Resources:** Will be posted after the talk
 
-We have the setup instructions for Windows, Mac and Ubuntu.
-
 ## Set up for Windows
 
 1. checkout the readme on the [windows branch](https://github.com/uwblueprint/blueprint_intro_to_data_science/tree/windows#set-up-for-windows) for more details
