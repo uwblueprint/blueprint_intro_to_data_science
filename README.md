@@ -4,9 +4,14 @@
 
 Hi there! Please do the following pre-reqs below before the workshop so we can get started right away! Feel free to message us if you have any issues. Also like our [Facebook Page](https://www.facebook.com/uwblueprint/) and check out our [website](https://www.uwblueprint.org/)!
 
-**Slides:** Will be posted after the talk
+**Slides:** [Slides](https://docs.google.com/presentation/d/107yW8xMquL8f3Ow0zOved-1hTC0X5_RcmGP4R9iBti0/edit#slide=id.p)
 
-**Additional Resources:** Will be posted after the talk
+**Additional Resources:** 
+- https://www.kaggle.com/
+- https://www.vizforsocialgood.com/gallery/
+- https://www.datascienceweekly.org/
+- https://www.ngdata.com/top-data-science-resources/
+
 
 ## Set up for Windows
 
